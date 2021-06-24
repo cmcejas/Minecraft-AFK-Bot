@@ -22,4 +22,4 @@ Personalization
  
  Upcoming
  -
-  - The application will be made into a .exe it is currently in |ALPHA| stages
+  - The application will be made into a .exe it is currently in ALPHA stages
