@@ -3,5 +3,6 @@ import pyautogui
 
 while True:
   time.sleep(1800)
-  pyautogui.moveTo(1, 1)
-  pyautogui.moveTo(500, 500)
+  pyautogui.keyDown('e')
+  time.sleep(5)
+  pyautogui.keyUp('e')
