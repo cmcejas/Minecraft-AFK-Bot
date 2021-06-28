@@ -23,3 +23,7 @@ Personalization
  Upcoming
  -
   - The application will be made into a .exe it is currently in ALPHA stages
+
+Warning
+-
+ - We advise against using this application in online games. It could get you temporarily banned or even lead to account termination.
