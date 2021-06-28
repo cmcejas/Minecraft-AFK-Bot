@@ -22,7 +22,7 @@ Personalization
  
  Upcoming
  -
-  - The application will be made into a .exe it is currently in ALPHA stages v0.1.16
+  - The application will be made into a .exe it is currently in ALPHA stages v0.1.15
 
 Warning
 -
