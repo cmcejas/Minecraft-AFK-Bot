@@ -6,7 +6,7 @@ How to use
 -
  - download python using this link: https://www.python.org/downloads/
  - open your terminal or command center (can be opened on windows by pressing the windows key and typing `cmd` and pressing `enter`
- - type the command `pip install pyautogui` and press `enter`
+ - type the command `pip install pydirectinput` and press `enter`
  - download the afk.py file 
  - startup your Minecraft world and run the file
  - leave your computer open as long as you like
