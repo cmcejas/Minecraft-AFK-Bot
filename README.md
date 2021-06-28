@@ -4,9 +4,9 @@ This is a program that allows you to AFK in Minecraft for as long as you want wi
 
 How to use
 -
- - download the Minecraftbot.exe file
- - to start AFKing simply run the Minecraftbot.exe.exe and open Minecraft
- - when you are done AFKing simply close the Minecraftbot.exe
+ - download the minecraft-afk.exe file
+ - to start AFKing simply run the minecraft-afk.exe and open Minecraft
+ - when you are done AFKing simply close the minecraft-afk.exe
 
 Warning
 -
