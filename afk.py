@@ -3,6 +3,6 @@ import pydirectinput
 
 while True:
   time.sleep(1800)
-  pydirectinput.clcik()
+  pydirectinput.click()
   time.sleep(5)
   pydirectinput.click()
