@@ -3,6 +3,6 @@ import pydirectinput
 
 while True:
   time.sleep(1800)
-  pydirectinput.keyDown('e')
+  pydirectinput.clcik()
   time.sleep(5)
-  pydirectinput.keyUp('e')
+  pydirectinput.click()
