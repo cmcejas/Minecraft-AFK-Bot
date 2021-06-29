@@ -4,9 +4,11 @@ This is a program that allows you to AFK in Minecraft for as long as you want wi
 
 How to use
 -
- - download the minecraft-afk.exe file
- - to start AFKing simply run the minecraft-afk.exe and open Minecraft
- - when you are done AFKing simply close the minecraft-afk.exe
+ - download the `Minecraft AFK Installer.exe` file
+ - run the installer
+ - select where you would like to install it (desktop or a desktop file is reccomended)
+ - to start AFKing simply find where you installed the file and run the `minecraft-afk.exe` and open Minecraft
+ - when you are done AFKing simply close the `minecraft-afk.exe`
 
 Warning
 -
