@@ -1,5 +1,4 @@
--
-🗔 is the only supported platform
+= 🗔 is the only supported platform
 -
 Desription
 -
