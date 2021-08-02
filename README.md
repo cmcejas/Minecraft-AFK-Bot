@@ -1,4 +1,4 @@
-# 🗔 is the only supported platform
+# **THE ONLY SUPPORTED PLATFORM IS**🗔
 
 Desription
 -
