@@ -1,7 +1,6 @@
-Details
 -
- - Windows only v2.0
-
+🗔 is the only supported platform
+-
 Desription
 -
 This is a program that allows you to AFK in Minecraft for as long as you want without your computer turning off.
