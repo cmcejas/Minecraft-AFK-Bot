@@ -15,4 +15,4 @@ How to use
 
 Warning
 -
- - We advise against using this application in online games. It could get you temporarily banned or even lead to account termination.
+ - I advise against using this application in online games. It could get you temporarily banned or even lead to account termination.
