@@ -1,6 +1,3 @@
-# **THE ONLY SUPPORTED PLATFORM IS WINDOWS**
-
-
 Desription
 -
 This is a program that allows you to AFK in Minecraft for as long as you want without your computer turning off.
